@@ -1,3 +1,5 @@
+<h1 align="center">👋 Hi, I'm Rahma Walied Mohamed</h1>
+<h3 align="center">Welcome To My GitHub Profile 🚀</h3>
 
 <!-- Typing Effect -->
 <p align="center" color="pink">
