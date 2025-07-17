@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://github.com/RahmaWalied/Rahma-Walied/blob/main/65cb183c-8489-4bb0-a4b5-8c49203a3cba.png?raw=true" alt="Rahma Walied Mohamed Banner" />
-</p>
 
 <!-- Typing Effect -->
 <p align="center" color="pink">
