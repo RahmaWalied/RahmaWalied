@@ -55,7 +55,7 @@
 
 ---
 
-## 🌐 Connect with Me  
+
 ## 🌐 Connect with Me  
 <p align="center">
 <a href="https://linkedin.com/in/rahma-walied-4a79b0360"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
